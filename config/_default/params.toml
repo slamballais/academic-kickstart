@@ -22,7 +22,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -97,19 +97,19 @@ address = {street = "Dr. Molewaterplein 50", city = "Rotterdam", postcode = "301
 coordinates = {latitude = "51.911063", longitude = "4.467886"}
 
 # Directions for visitors to locate you.
-directions = "Walk up the stairs towards the Sophia Hospital; follow the corridor to the Na building and go to the 27th floor"
+#directions = "Walk up the stairs towards the Sophia Hospital; follow the corridor to the Na building and go to the 27th floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/slamballais"},
+  {icon = "twitter", icon_pack = "fab", name = "@slamballais", link = "https://twitter.com/slamballais"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -253,8 +253,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
-  api_key = "AIzaSyCody2O8IJnf9FHkQGYcC4KVCbi1yI2TJw"
+  engine = 0
+  api_key = ""
   zoom = 15
 
 ############################

@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a scientist based at the Erasmus MC in Rotterdam, the Netherlands. I am finalizing my PhD at the department of Epidemiology, and working as a postdoctoral researcher at the department of Clinical Genetics. My interests are broad and my research focus includes methodology (omics, neuroimaging, statistics) and epidemiology (genetics, neuroimaging).
+I am a scientist based at the Erasmus MC in Rotterdam, the Netherlands, at the departments of Epidemiology (PhD) and Clinical Genetics (postdoc). My work focuses on methodology (omics, neuroimaging, statistics) and epidemiology (genetics, neuroimaging, cognition). I am the lead developer of several R packages, including QDECR ([www.qdecr.com](www.qdecr.com)).
