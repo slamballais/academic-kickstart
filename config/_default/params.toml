@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = "Erasmus Medical Center<br>Dr. Molewaterplein 40<br>Building Na, Floor 29<br>3015 GD Rotterdam, the Netherlands"
+address = {street = "Dr. Molewaterplein 50", city = "Rotterdam", postcode = "3015 GE", country = "Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
