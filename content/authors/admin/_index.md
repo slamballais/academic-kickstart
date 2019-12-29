@@ -22,8 +22,9 @@ bio: A researcher with experience in psychology, neuroscience, epidemiology, gen
 
 interests:
 - Methodology of genomics and neuroimaging
-- Epidemiology and study design
+- Epidemiology
 - Theoretical cognomics
+- R
 
 education:
   courses:
