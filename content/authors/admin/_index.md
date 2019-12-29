@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a scientist based at the Erasmus MC in Rotterdam, the Netherlands, at the departments of Epidemiology (PhD) and Clinical Genetics (postdoc). My work focuses on methodology (omics, neuroimaging, statistics) and epidemiology (genetics, neuroimaging, cognition). I am the lead developer of several R packages, including QDECR (www.qdecr.com).
+I am a scientist based at the Erasmus MC in Rotterdam, the Netherlands, at the departments of Epidemiology (PhD) and Clinical Genetics (postdoc). My work focuses on methodology (omics, neuroimaging, statistics) and epidemiology (genetics, neuroimaging, cognition). I am the lead developer of several R packages, including QDECR ([www.qdecr.com](www.qdecr.com)).
