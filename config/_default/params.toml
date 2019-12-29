@@ -97,14 +97,14 @@ address = {street = "Dr. Molewaterplein 50", city = "Rotterdam", postcode = "301
 coordinates = {latitude = "51.911063", longitude = "4.467886"}
 
 # Directions for visitors to locate you.
-directions = "Walk up the stairs towards the Sophia Hospital; follow the corridor to the Na building and go to the 27th floor"
+#directions = "Walk up the stairs towards the Sophia Hospital; follow the corridor to the Na building and go to the 27th floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
