@@ -21,7 +21,8 @@ organizations:
 bio: A researcher with experience in psychology, neuroscience, epidemiology, genetics and statistics.
 
 interests:
-- Methodology of genomics and neuroimaging
+- Omics (methods)
+- Neuroimaging (methods)
 - Epidemiology
 - Theoretical cognomics
 - R
