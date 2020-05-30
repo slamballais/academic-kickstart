@@ -25,7 +25,7 @@ A common problem in presentations is that it is not clear to the audience why ce
 
 This analogy has two important implications for presenting new information. First, your audience has to know and understand all the required supporting concepts. This means that you have to explain all supporting information, or you have to assume that your audience already knows it. Second, any new concepts you introduce should be relevant for your presentation. Either they are introduced to support later concepts, or they are there to fulfill the goals of your presentation (e.g. presenting the findings of your study). Any information that does neither is irrelevant and should therefore be removed from your presentation.
 
-## **3.**    **Let each slide contain one concept or step**
+## **3.**    **Limit each slide to one topic**
 
 The use of slides forces us to create units of information. So, what do we present per slide? 
 
