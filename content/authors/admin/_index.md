@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: A researcher with experience in psychology, neuroscience, epidemiology, genetics and statistics.
+bio: Neurobiologist, genetic epidemiologist, R user.
 
 interests:
 - Genomics
