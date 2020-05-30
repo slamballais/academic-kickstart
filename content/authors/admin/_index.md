@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -28,12 +28,9 @@ interests:
 
 education:
   courses:
-  - course: Postdoc in Clinical Genetics
-    institution: Erasmus MC
-    year: 2020 - ...
   - course: PhD in Neuroepidemiology
     institution: Erasmus MC
-    year: 2016 - ...
+    year: 2016 - 2020
   - course: MSc in Genetic Epidemiology
     institution: Erasmus MC
     year: 2014 - 2015
