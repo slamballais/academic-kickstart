@@ -1,6 +1,8 @@
 ---
 title: Seven ideas to improve your presentations
 date: 2020-05-30
+image:
+  placement: 3
 ---
 
 Sharing your findings is an important part of academia. A common way to do this is by presenting in front of research groups or at conferences. However, making a good presentation can be pretty hard. Over the years, I have seen hundreds of presentations and lectures in different academic fields and different settings. Some of them I remember fondly, others I have trouble forgetting. Over time, I started noticing some key differences between good and bad presentations. In this blog, I will share seven of those.
