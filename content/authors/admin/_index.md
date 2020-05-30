@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc based at the Clinical Genetics department of the Erasmus MC (Rotterdam, the Netherlands). I am a member of the ([Adams lab](www.adamslab.nl)). My work focuses on neuroimaging, genomics and epidemiology. I am the lead developer of the ([QDECR R package](www.qdecr.com)).
+I am a postdoc based at the Clinical Genetics department of the Erasmus MC (Rotterdam, the Netherlands). I am a member of the [Adams lab](www.adamslab.nl). My work focuses on neuroimaging, genomics and epidemiology. I am the lead developer of the [QDECR R package](www.qdecr.com).
