@@ -23,7 +23,7 @@ A common problem in presentations is that it is not clear to the audience why ce
 
 This analogy has two important implications for presenting new information. First, your audience has to know and understand all the required supporting concepts. This means that you have to explain all supporting information, or you have to assume that your audience already knows it. Second, any new concepts you introduce should be relevant for your presentation. Either they are introduced to support later concepts, or they are there to fulfill the goals of your presentation (e.g. presenting the findings of your study). Any information that does neither is irrelevant and should therefore be removed from your presentation.
 
-**3.**    **Divide your presentation into independent components**
+**3.**    **Let each slide contain one concept or step**
 
 The use of slides forces us to create units of information. So, what do we present per slide? 
 
@@ -39,7 +39,7 @@ A problem arises when text is shown on slides. Reading text actually may be proc
 
 Of course, there are cases where text is simply superior, such as when you have to show a list of items or when you are discussing a quote. Additionally, it is very useful to show key terms on the slides (see #1), and to give textual summaries. The key concept here is that you should be mindful of when you use text, and challenge yourself to choose the best way to convey information. 
 
-**5.**    **Present information on slides in chunks**
+**5.**    **Present information in bite-size pieces**
 
 Whenever you design a slide, try to think of how your audience examines that slide. If you present a lot of information at the same time (e.g. multiple images with text) then your audience likely does not know where to focus their attention. Any time that the audience spends on searching through your slides is time that they will not pay attention to your story. Some presenters solve this by using a laser pointer, but using a laser pointer too often is distracting in and of itself. 
 
