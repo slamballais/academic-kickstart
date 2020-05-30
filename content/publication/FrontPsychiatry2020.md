@@ -48,11 +48,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7018686"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7018686"}]
+#   url_custom = [{name = "", url = ""}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
