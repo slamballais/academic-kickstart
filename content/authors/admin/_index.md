@@ -26,7 +26,7 @@ interests:
 - Methodology
 - Epidemiology
 
-education:
+academic career:
   courses:
   - course: Postdoc in Clinical Genetics
     institution: Erasmus MC
