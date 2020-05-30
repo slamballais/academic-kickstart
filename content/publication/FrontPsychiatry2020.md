@@ -3,6 +3,7 @@ title = "Genetic Burden for Late-Life Neurodegenerative Disease and Its Associat
 date = 2020-02-07T00:00:00
 draft = false
 authors = ["Sander Lamballais", "Ryan L Muetzel", "M. Arfan Ikram", "Henning Tiemeier", "Meike W vernooij", "Tonya White", "Hieab H H Adams"]
+url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7018686"
 
 # Publication type.
 # Legend:
