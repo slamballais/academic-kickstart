@@ -29,9 +29,12 @@ interests:
 
 education:
   courses:
+  - course: Postdoc in Clinical Genetics
+    institution: Erasmus MC
+    year: 2020 - ...
   - course: PhD in Neuroepidemiology
     institution: Erasmus MC
-    year: 2016 - 2020
+    year: 2016 - ...
   - course: MSc in Genetic Epidemiology
     institution: Erasmus MC
     year: 2014 - 2015
