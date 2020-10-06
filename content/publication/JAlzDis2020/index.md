@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
-- name: Link to Frontiers
+- name: Link to JAD
   url: https://content.iospress.com/articles/journal-of-alzheimers-disease/jad200264
 url_pdf: https://content.iospress.com/download/journal-of-alzheimers-disease/jad200264?id=journal-of-alzheimers-disease%2Fjad200264
 url_code: ''
