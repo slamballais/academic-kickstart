@@ -1,7 +1,7 @@
 ---
 title: "Associations of specific dietary protein with longitudinal insulin resistance, prediabetes and type 2 diabetes: The Rotterdam Study"
 authors:
-- admin
+- Zhengling Chen
 - et al.
 date: "2020-01-01T00:00:00Z"
 doi: "10.1016/j.clnu.2019.01.021"
