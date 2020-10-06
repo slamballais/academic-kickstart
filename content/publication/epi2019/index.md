@@ -1,7 +1,7 @@
 ---
 title: "Plant-based Diet and Adiposity Over Time in a Middle-aged and Elderly Population: The Rotterdam Study"
 authors:
-- admin
+- Zhengling Chen
 - et al.
 date: "2019-03-01T00:00:00Z"
 doi: "10.1097/EDE.0000000000000961"
