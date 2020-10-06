@@ -14,7 +14,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Adams' Lab
+- name: Adams Lab
   url: https://www.adamslab.nl
 - name: Clinical Genetics, Erasmus MC
   url: https://www.erasmusmc.nl/en/research/departments/clinical-genetics
