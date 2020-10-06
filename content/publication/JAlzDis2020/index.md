@@ -22,7 +22,7 @@ publication_short: In *J Alzheimers Dis*
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Cognitive and brain reserve have been implicated in the etiology of dementia. In this manuscript, we consider the relative contributions of early-life and late-life metrics for cognitive and brain reserve in the incidence of dementia.
 
 tags:
 - Source Themes
