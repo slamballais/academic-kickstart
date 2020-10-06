@@ -22,7 +22,7 @@ publication_short: In *NeuroImage*
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Gyrification is a core feature of the cerebral cortex and has been associated with function and disease. In this manuscript, we show how gyrification changes throughout adulthood, and how it relates to cognitive function.
 
 tags:
 - Source Themes
