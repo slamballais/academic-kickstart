@@ -14,8 +14,10 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: Erasmus MC
-  url: ""
+- name: Adams Lab
+- url: https://www.adamslab.nl
+- name: Clinical Genetics, Erasmus MC
+  url: https://www.erasmusmc.nl/en/research/departments/clinical-genetics
 
 # Short bio (displayed in user profile at end of posts)
 bio: Neurobiologist, genetic epidemiologist, R user.
@@ -29,17 +31,17 @@ interests:
 education:
   courses:
   - course: PhD in Neuroepidemiology
-    institution: Erasmus MC
-    year: 2016 - 2020
+    institution: Erasmus MC, NL
+    year: 2020
   - course: MSc in Genetic Epidemiology
-    institution: Erasmus MC
-    year: 2014 - 2015
+    institution: Erasmus MC, NL
+    year: 2015
   - course: MSc in Neuroscience
-    institution: Erasmus MC
-    year: 2012 - 2014
+    institution: Erasmus MC, NL
+    year: 2014
   - course: BSc in Psychology
-    institution: Erasmus University Rotterdam
-    year: 2009 - 2012
+    institution: Erasmus University Rotterdam, NL
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,6 +75,6 @@ user_groups:
 
 Hi, my name is Sander Lamballais. I am a postdoc in the field of Neurogenetics; I develop methods to study genetics, and I apply those methods to the genetics of the brain. My goal in academia is to elucidate the determinants of ourselves, to understand why we are who we are. My work primarily focuses on high-dimensional questions, meaning that I try to consider all information at once. I develop methods that consider interactions between genetic signals, and how they affect the brain at a microscopic and macroscopic level, both in structure and function. 
 
-I am a member of the [Adams lab](https://www.adamslab.nl) at the Clinical Genetics department of the Erasmus MC (NL). I am the lead developer of the [QDECR R package](https://qdecr.com), an R package to perform vertex-wise analyses. I was the lead PhD on the ORACLE Study (2017-2020), a substudy within the population-based Generation R cohort. The ORACLE Study included over 2,000 participants, who participated in neuroimaging, cognitive testing and a myriad of other measures. I co-designed and conducted the study, including assembling and training a team of over 20 students, writing all protocols and ensuring that the study would run smoothly after I left in 2019. 
+I am the lead developer of the [QDECR R package](https://qdecr.com), an R package to perform vertex-wise analyses. I was the lead PhD on the ORACLE Study (2017-2020), a substudy within the population-based Generation R cohort. The ORACLE Study included over 2,000 participants, who participated in neuroimaging, cognitive testing and a myriad of other measures. I co-designed and conducted the study, including assembling and training a team of over 20 students, writing all protocols and ensuring that the study would run smoothly after I left in 2019. 
 
 I am always looking for ways to contribute to the academic community. This includes collaborations, peer review, code review and seminars.
