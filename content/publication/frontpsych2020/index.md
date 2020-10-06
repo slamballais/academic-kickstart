@@ -22,7 +22,7 @@ publication_short: In *Front Psychiatry*
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: The genetic causes of late-life neurodegenerative diseases have been unearthed in recent years. In this manuscript, we consider whether such genetic burden also affects early-life processes like brain structure and cognitive function.
 
 tags:
 - Source Themes
