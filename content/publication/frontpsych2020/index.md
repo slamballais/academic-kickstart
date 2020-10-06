@@ -16,8 +16,8 @@ publishDate: "2020-02-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Frontiers in Psychiatry*
+publication_short: In *Front Psychiatry*
 
 abstract: 
 
@@ -62,14 +62,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
