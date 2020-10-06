@@ -2,7 +2,7 @@
 title: "Genetic burden of late-life neurodegenerative disease and its association with early-life lipids, brain, behavior and cognition"
 authors:
 - admin
-- Sander Lamballais
+- et al.
 date: "2020-02-07T00:00:00Z"
 doi: "10.3389/fpsyt.2020.00033"
 
