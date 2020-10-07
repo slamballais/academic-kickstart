@@ -1,7 +1,7 @@
 ---
 title: "Genetic variants for head size share genes and pathways with cancer"
 authors:
-- admin
+- Maria Knol
 - et al.
 date: "2020-07-16T00:00:00Z"
 doi: "10.1101/2020.07.15.191114 "
