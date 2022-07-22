@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sander Lamballais
+#name: Sander Lamballais
 
 # Username (this should match the folder name)
 authors:
@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+#role: Postdoctoral Researcher
 
 # Organizations/Affiliations
-organizations:
-- name: Adams Lab
-  url: https://www.adamslab.nl
-- name: Clinical Genetics, Erasmus MC
-  url: https://www.erasmusmc.nl/en/research/departments/clinical-genetics
+#organizations:
+#- name: Adams Lab
+#  url: https://www.adamslab.nl
+#- name: Clinical Genetics, Erasmus MC
+#  url: https://www.erasmusmc.nl/en/research/departments/clinical-genetics
 
 # Short bio (displayed in user profile at end of posts)
 bio: Neurobiologist, genetic epidemiologist, R user.
