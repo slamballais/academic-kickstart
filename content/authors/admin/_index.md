@@ -79,9 +79,7 @@ user_groups:
 - Visitors
 ---
 
-* Hi, my name is Sander Lamballais. 
-
-
+Hi, my name is Sander Lamballais. 
 
 My current work:
 * Genetic methodology: Developing methods related to polygenic burden, pleiotropy, and cell-free DNA.
