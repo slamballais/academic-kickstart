@@ -82,16 +82,18 @@ user_groups:
 Hi, my name is Sander Lamballais. 
 
 My current work:
-* Genetic methodology: Developing methods related to polygenic burden, pleiotropy, and cell-free DNA.
-* Neurogenetics: Applying my and other methods to understand brain development and deterioration.
-* Psychiatric genetics: Applying my and other methods to understand the role of genetics in psychiatric disorders.
-* I teach Research Design (2022 onwards) and Biological Statistics (2023) in the [Genomics in Society MSc program](https://www.eur.nl/en/research-master/genomics-society).
+* Developing methods related to polygenic burden, pleiotropy, and cell-free DNA.
+* Applying my and other methods to understand brain development and deterioration.
+* Applying my and other methods to understand the role of genetics in psychiatric disorders.
+* I teach Research Design (2022) and Biological Statistics (2023) in the [Genomics in Society MSc](https://www.eur.nl/en/research-master/genomics-society).
 
 Highlights from my previous work:
 * I am the lead developer of [QDECR](https://qdecr.com), an R package to perform vertex-wise analyses. 
 * I co-designed and conducted [the ORACLE Study](doi.org/10.1007/s10654-020-00696-3), a cohort of 2,000 individuals with neuroimaging, cognitive testing, and more. I trained and led a team of over 20 BSc, MSc, and PhD students. 
 * I co-authored over 20 papers.
 
-My interests:
-* Peer review: I am looking for opportunities to review papers.
-* Teaching:
+Feel free to reach out if you:
+* Want to collaborate
+* Need a peer reviewer
+* Want to learn more about genetics or neuroimaging
+* Have questions about my work
