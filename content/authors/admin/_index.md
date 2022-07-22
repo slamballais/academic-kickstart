@@ -1,7 +1,6 @@
 ---
 # Display name
-name: 
-#Sander Lamballais
+name: Sander Lamballais
 
 # Username (this should match the folder name)
 authors:
@@ -11,15 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: 
-#Postdoctoral Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: 
-#Clinical Genetics, Erasmus MC
-  url: 
-#https://www.erasmusmc.nl/en/research/departments/clinical-genetics
+- name: Clinical Genetics, Erasmus MC
+  url: https://www.erasmusmc.nl/en/research/departments/clinical-genetics
 
 # Short bio (displayed in user profile at end of posts)
 bio: Neurobiologist, genetic epidemiologist, R user.
@@ -81,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-Hi, my name is Sander Lamballais. 
+Hi, my name is Sander Lamballais. I am a PostDoc at the Erasmus MC.
 
 My current work:
 * Developing methods related to polygenic burden, pleiotropy, and cell-free DNA.
