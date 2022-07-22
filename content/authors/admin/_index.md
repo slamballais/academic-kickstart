@@ -23,16 +23,16 @@ organizations:
 bio: Neurobiologist, genetic epidemiologist, R user.
 
 interests:
-- Genetics & Genomics
-- Neuroimaging Processing & Analysis
+- Methodology
+- Genetics & Omics
+- Neuroimaging
 - Epidemiology
-- Programming (R, Python)
 
 education:
   courses:
   - course: PhD in Neuroepidemiology
     institution: Erasmus MC, NL
-    year: 2020
+    year: 2022
   - course: MSc in Genetic Epidemiology
     institution: Erasmus MC, NL
     year: 2015
@@ -50,13 +50,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:s.lamballaistessensohn@erasmusmc.nl
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/slamballais
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3118-6330
 - icon: github
   icon_pack: fab
   link: https://github.com/slamballais
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sanderlamballais/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,8 +79,21 @@ user_groups:
 - Visitors
 ---
 
-Hi, my name is Sander Lamballais. I am a postdoc in the field of Neurogenetics; I develop methods to study genetics, and I apply those methods to the genetics of the brain. My goal in academia is to elucidate the determinants of ourselves, to understand why we are who we are. My work primarily focuses on high-dimensional questions, meaning that I try to consider all information at once. I develop methods that consider interactions between genetic signals, and how they affect the brain at a microscopic and macroscopic level, both in structure and function. 
+* Hi, my name is Sander Lamballais. 
 
-I am the lead developer of [QDECR](https://qdecr.com), an R package to perform vertex-wise analyses. I was the lead PhD on the ORACLE Study (2017-2020), a substudy within the population-based Generation R cohort. The ORACLE Study included over 2,000 participants, who participated in neuroimaging, cognitive testing and a myriad of other measures. I co-designed and conducted the study, including assembling and training a team of over 20 students, writing all protocols and ensuring that the study would run smoothly after I left in 2019. 
 
-I am always looking for ways to contribute to the academic community. This includes collaborations, peer review, code review and seminars.
+
+My current work:
+* Genetic methodology: Developing methods related to polygenic burden, pleiotropy, and cell-free DNA.
+* Neurogenetics: Applying my and other methods to understand brain development and deterioration.
+* Psychiatric genetics: Applying my and other methods to understand the role of genetics in psychiatric disorders.
+* I teach Research Design (2022 onwards) and Biological Statistics (2023) in the [Genomics in Society MSc program](https://www.eur.nl/en/research-master/genomics-society).
+
+Highlights from my previous work:
+* I am the lead developer of [QDECR](https://qdecr.com), an R package to perform vertex-wise analyses. 
+* I co-designed and conducted [the ORACLE Study](doi.org/10.1007/s10654-020-00696-3), a cohort of 2,000 individuals with neuroimaging, cognitive testing, and more. I trained and led a team of over 20 BSc, MSc, and PhD students. 
+* I co-authored over 20 papers.
+
+My interests:
+* Peer review: I am looking for opportunities to review papers.
+* Teaching:
