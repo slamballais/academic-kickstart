@@ -88,7 +88,7 @@ My current work:
 Highlights from my previous work:
 * I am the lead developer of [QDECR](https://qdecr.com), an R package to perform vertex-wise analyses. 
 * I co-designed and conducted [the ORACLE Study](doi.org/10.1007/s10654-020-00696-3), a cohort of 2,000 individuals with neuroimaging, cognitive testing, and more. I trained and led a team of over 20 BSc, MSc, and PhD students. 
-* I wrote [my doctoral thesis](https://pure.eur.nl/en/publications/shaping-the-brain-causes-and-consequences-of-the-changing-brain-a) on the brain being shaped across a lifetime.
+* I wrote [my doctoral thesis](https://pure.eur.nl/en/publications/shaping-the-brain-causes-and-consequences-of-the-changing-brain-a) on how the brain takes shape across a lifetime.
 
 Feel free to reach out if you:
 * Want to collaborate
