@@ -81,13 +81,18 @@ Hi, my name is Sander Lamballais. I am a PostDoc at the Erasmus MC.
 
 My current work:
 * Developing methods related to polygenic burden, pleiotropy, and cell-free DNA.
-* Applying my and other methods to understand brain development and deterioration.
-* Applying my and other methods to understand the role of genetics in psychiatric disorders.
-* I teach Research Design (2022) and Biological Statistics (2023) in the [Genomics in Society MSc](https://www.eur.nl/en/research-master/genomics-society).
+* Applying my and other methods to understand brain development and psychiatric disorders.
+* I coordinate two courses in the new [Genomics in Society MSc](https://www.eur.nl/en/research-master/genomics-society):
+  * Research Design (2022 onwards) 
+  * Biological Statistics (2023 onwards)
+* I am working on the following short books:
+  * Bash for Non-Programmers (forthcoming)
+  * R for Non-Programmers
+  * Polygenic Scores for Non-Geneticists
 
 Highlights from my previous work:
 * I am the lead developer of [QDECR](https://qdecr.com), an R package to perform vertex-wise analyses. 
-* I co-designed and conducted [the ORACLE Study](https://doi.org/10.1007/s10654-020-00696-3), a cohort of 2,000 individuals with neuroimaging, cognitive testing, and more. I trained and led a team of over 20 BSc, MSc, and PhD students. 
+* I co-designed and conducted the [ORACLE Study](https://doi.org/10.1007/s10654-020-00696-3), a cohort of 2,000 individuals with neuroimaging, cognitive testing, and more. I trained and led a team of over 20 BSc, MSc, and PhD students. 
 * I wrote [my doctoral thesis](https://pure.eur.nl/en/publications/shaping-the-brain-causes-and-consequences-of-the-changing-brain-a) on how the brain takes shape across a lifetime.
 
 Feel free to reach out if you:
