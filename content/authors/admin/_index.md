@@ -80,9 +80,9 @@ user_groups:
 Hi, my name is Sander Lamballais. I am a PostDoc at the Erasmus MC.
 
 My current work:
-* Developing methods related to polygenic burden, pleiotropy, and cell-free DNA.
-* Applying my and other methods to understand brain development and psychiatric disorders.
-* I coordinate two courses in the new [Genomics in Society MSc](https://www.eur.nl/en/research-master/genomics-society):
+* I develop methods related to GWAS, polygenic burden, pleiotropy, and cell-free DNA.
+* I study the role of genetics in brain development and psychiatric disorders.
+* I coordinate two courses in the new [Genomics in Society](https://www.eur.nl/en/research-master/genomics-society) MSc program:
   * Research Design (2022 onwards) 
   * Biological Statistics (2023 onwards)
 * I am working on the following short books:
