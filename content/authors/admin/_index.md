@@ -77,18 +77,12 @@ user_groups:
 - Visitors
 ---
 
-Hi, my name is Sander Lamballais. I am a PostDoc at the Erasmus MC.
+Hi, my name is **Sander Lamballais**. I am a **postdoctoral researcher** at the **Erasmus MC, Netherlands**.
 
-My current work:
-* I develop methods related to GWAS, polygenic burden, pleiotropy, and cell-free DNA.
-* I study the role of genetics in brain development and psychiatric disorders.
-* I coordinate two courses in the new [Genomics in Society](https://www.eur.nl/en/research-master/genomics-society) MSc program:
-  * Research Design (2022 onwards) 
-  * Biological Statistics (2023 onwards)
-* I am working on the following short books:
-  * Bash for Non-Programmers (forthcoming)
-  * R for Non-Programmers
-  * Polygenic Scores for Non-Geneticists
+I do research in various areas:
+* Methodology of genetics and genomics, with a focus on GWAS, pleiotropy, and ancestry.
+* Methodology of high dimensional neuroimaging analysis.
+* The role of genetics in brain development and psychiatric disorders.
 
 Highlights from my previous work:
 * I am the lead developer of [QDECR](https://qdecr.com), an R package to perform vertex-wise analyses. 
