@@ -79,10 +79,15 @@ user_groups:
 
 Hi, my name is **Sander Lamballais**. I am a **postdoctoral researcher** at the **Erasmus MC, Netherlands**.
 
-I do research in various areas:
+I research:
 * Methodology of genetics and genomics, with a focus on GWAS, pleiotropy, and ancestry.
 * Methodology of high dimensional neuroimaging analysis.
 * The role of genetics in brain development and psychiatric disorders.
+
+I teach:
+* Core teacher in the [*Genomics in Society* MSc program](https://www.eur.nl/en/research-master/genomics-society)
+* Co-coordinator of *Research Design* (8 ECTS, year 1, [Genomics in Society](https://www.eur.nl/en/research-master/genomics-society))
+* Coordinator of *Statistics for Genomics* (5 ECTS, year 2, [Genomics in Society](https://www.eur.nl/en/research-master/genomics-society))
 
 Highlights from my previous work:
 * I am the lead developer of [QDECR](https://qdecr.com), an R package to perform vertex-wise analyses. 
