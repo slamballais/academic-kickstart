@@ -132,3 +132,9 @@ Feel free to reach out if you:
 * Need a peer reviewer
 * Want to learn more about genetics or neuroimaging
 * Have questions about my work
+
+------
+**Other noteworthy achievements**
+------
+
+1. I have [beaten](https://imgur.com/a/6CfDMsA) the [Password Game](https://neal.fun/password-game/). Good luck.
