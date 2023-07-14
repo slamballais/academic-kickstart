@@ -137,4 +137,4 @@ Feel free to reach out if you:
 **Other noteworthy achievements**
 ------
 
-1. I have [beaten](https://imgur.com/a/6CfDMsA) the [Password Game](https://neal.fun/password-game/). Good luck.
+1. I have beaten the [Password Game](https://neal.fun/password-game/) [[spoiler](https://imgur.com/a/6CfDMsA)]. Good luck.
